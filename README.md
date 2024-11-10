@@ -1,1 +1,3 @@
-#### Hello World
+## Hello there! 🤡
+### I'm Sam, an inexperienced programmer 🐧.
+
