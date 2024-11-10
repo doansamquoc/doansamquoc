@@ -1,3 +1,3 @@
 ## Hello there! 🤡
-### I'm Sam, an inexperienced programmer 🐧.
+**I'm Sam, an inexperienced programmer 🐧.**
 
