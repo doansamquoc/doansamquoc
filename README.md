@@ -1,5 +1,5 @@
 ### HI, I'M SAM
-> **A PASSIONATE BACKEND DEVELOPER FROM VIETNAM**
+#### A PASSIONATE BACKEND DEVELOPER FROM VIETNAM
 
 #### SKILLS
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
