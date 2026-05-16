@@ -15,9 +15,5 @@
 </p>
 
 <p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=doansamquoc&hide_border=true&hide_total_contributions=true&hide_longest_streak=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=doansamquoc&hide_border=true&hide_total_contributions=true&hide_longest_streak=true">
-  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=doansamquoc&hide_border=true&hide_total_contributions=true&hide_longest_streak=true">
-  </picture>
+    <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=doansamquoc&theme=transparent&hide_border=true&hide_total_contributions=true&hide_longest_streak=true">
 </p>
