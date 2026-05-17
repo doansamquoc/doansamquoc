@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-    <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=doansamquoc&theme=transparent&hide_border=true&hide_total_contributions=true&hide_longest_streak=true">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=doansamquoc&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
