@@ -1,5 +1,5 @@
 <p align="center">
-    <img altr="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFqbXphMjQ4dXNrNTdjMnI2NGZhcmx0eXRnNGhkaDRkdGk3bzY5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ix8dIWbEovToc/giphy.gif"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFqbXphMjQ4dXNrNTdjMnI2NGZhcmx0eXRnNGhkaDRkdGk3bzY5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ix8dIWbEovToc/giphy.gif"/>
 </p>
 
 <h3 align="center">HI, I'M SAM</h3>
